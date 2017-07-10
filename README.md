@@ -16,14 +16,15 @@ Download and convert video of youtube
   * --gif-duration | -gd `int` in secons default `3`
 * --change | -c `string` change output file name, Use quotation marks
 
-### Examples
+#### Examples
+
 Convert file in mp3 format
 *tubeturbo --url https://www.youtube.com/watch?v=... --format mp3*
-======
+
 
 Create a gif file
 *tubeturbo --url https://www.youtube.com/watch?v=... --gif --gif-initial 5 --gir-duration 3*
-======
+
 
 Change file name output
 *tubeturbo --url https://www.youtube.com/watch?v=... --format mp3 --change "mi file name"*

@@ -20,8 +20,7 @@ Download and convert video of youtube
 
 Convert file in mp3 format
 
-*tubeturbo --url https://www.youtube.com/watch?v=... --format mp3*
-
+`tubeturbo --url https://www.youtube.com/watch?v=... --format mp3`
 
 Create a gif file
 

@@ -18,10 +18,12 @@ Download and convert video of youtube
 
 ### Examples
 Convert file in mp3 format
-`tubeturbo --url https://www.youtube.com/watch?v=... --format mp3`
+*tubeturbo --url https://www.youtube.com/watch?v=... --format mp3*
 ======
+
 Create a gif file
-`tubeturbo --url https://www.youtube.com/watch?v=... --gif --gif-initial 5 --gir-duration 3`
+*tubeturbo --url https://www.youtube.com/watch?v=... --gif --gif-initial 5 --gir-duration 3*
 ======
+
 Change file name output
-`tubeturbo --url https://www.youtube.com/watch?v=... --format mp3 --change "mi file name"`
+*tubeturbo --url https://www.youtube.com/watch?v=... --format mp3 --change "mi file name"*

@@ -4,6 +4,10 @@ Download and convert video of youtube
 ## Version
 __Test version__
 
+## Licence
+Creative Commons Attribution 4.0
+http://www.safecreative.org/work/1707102922177-tubeturbo
+
 ## Requirements
 * ffmpeg
 

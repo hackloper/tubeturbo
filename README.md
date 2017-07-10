@@ -2,7 +2,7 @@
 Download and convert video of youtube
 
 ## Version
-__BETA__
+__Test version__
 
 ## Requirements
 * ffmpeg

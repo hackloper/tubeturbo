@@ -32,7 +32,7 @@ Convert file in mp3 format
 
 Create a gif file
 
-`tubeturbo --url https://www.youtube.com/watch?v=... --gif --gif-initial 5 --gir-duration 3`
+`tubeturbo --url https://www.youtube.com/watch?v=... --gif --gif-initial 5 --gif-duration 3`
 
 
 Change file name output

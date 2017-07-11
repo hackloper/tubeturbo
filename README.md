@@ -9,7 +9,8 @@ Creative Commons Attribution 4.0
 http://www.safecreative.org/work/1707102922177-tubeturbo
 
 ## Requirements
-* ffmpeg
+* ffmpeg https://ffmpeg.org/
+Save to same folder or path `?:Windows\System32\`
 
 ### Arguments
 

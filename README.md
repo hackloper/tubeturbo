@@ -16,7 +16,7 @@ Save to same folder or path `?:Windows\System32\`
 
 * --url | -u `string` url of youtube
 * --format | -f `string` format to output
-  * formats video and video: `ffmpeg -formats`
+  * formats audio and video: `ffmpeg -formats`
   * --initial | -i `int` in seconds To select the start of the video
 * --gif | -g Indicates whether it is converted to gif
   * --gif-initial | -gi `int` in seconds default `0`

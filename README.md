@@ -24,7 +24,8 @@ Save to same folder or path `?:Windows\System32\`
 * --change | -c `string` change character output file name, Use quotation marks
 
 ### ffmpeg -formats output
-`
+
+```
 File formats:
  D. = Demuxing supported
  .E = Muxing supported
@@ -360,7 +361,8 @@ File formats:
  D  xwma            Microsoft xWMA
  D  yop             Psygnosis YOP
  DE yuv4mpegpipe    YUV4MPEG pipe
-`
+```
+
 ### Examples
 
 Convert file in mp3 format
